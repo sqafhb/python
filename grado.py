@@ -1,4 +1,4 @@
-
+#Temperatura Minima e Maxima
 
 def minMax(temperaturas):
 	print("A menor temperatura do mês foi: ", minima(temperaturas), "C.")
